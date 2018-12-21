@@ -4,4 +4,3 @@ public class FirstProg {
 		System.out.println( "Today’s date is Monday, December 17, 2019." );
 }
 }
-
