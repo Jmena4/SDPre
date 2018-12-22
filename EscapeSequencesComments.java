@@ -7,7 +7,7 @@ public class EscapeSequencesComments {
 	System.out.print( "Hello\n )" ); // This line prints Hello.
 	System.out.print( "Jello\by\n" ); // This line prints Jelly.
 	/* The quick brown fox jumped over a lazt dog.
-	   Quick wafting zephyrs vex bold Jim. */	
+	   Quick wafting zephyrs vex bold Jim. */
 	System.out /* testing */ .println( "Hard to believe, eh?" );
 	System.out.println( "Surprised? /* abcde */ Or what did you expect?" );
 	System.out.println( "\\ // -=- \\ //" );
