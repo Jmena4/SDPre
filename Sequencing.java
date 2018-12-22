@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Sequencing {
 	public static void main( String[] args ) {
-	// THIS COSDE IS BROKEN UNITIL YOU FIX IT
+	// FIX IT
 
 	Scanner keyboard = new Scanner(System.in);
 	double price, salesTax, total;
