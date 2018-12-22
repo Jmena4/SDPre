@@ -8,7 +8,7 @@ public class Sequencing {
 	double price, salesTax, total;
 
 	price = 0;
-	System.out.print(	"How much is the purchase price? " );
+	System.out.print( "How much is the purchase price? " );
 	price = keyboard.nextDouble();
 
 	salesTax = price * 0.0825;
