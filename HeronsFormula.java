@@ -15,6 +15,7 @@ public class HeronsFormula {
           out.println(tws + "5,12,13 has area " + triangleArea(5, 12, 13) );
           out.println(tws + "10,9,11 has area " + triangleArea(10, 9, 11) );
           out.println(tws + "8,15,17 has area " + triangleArea(8, 15, 17) );
+          out.println(tws + "9,9,9 has area " + triangleArea(9, 9, 9) );
     }
 
     //This function computes the area of a triangle with side lengths a, b, & c.
