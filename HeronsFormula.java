@@ -21,7 +21,7 @@ public class HeronsFormula {
     public static double triangleArea( int a, int b, int c ) {
         double s, A;
 
-        s = (a+b+c) / 2;
+        s = (a+b+c) / 2.0;
         A = Math.sqrt( s*(s-a)*(s-b)*(s-c) );
 
         //After computing the area, you must "return" the computed value:
